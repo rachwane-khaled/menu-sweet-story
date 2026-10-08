@@ -197,7 +197,7 @@
     <header>
       <div class="small-title">Luxury Dessert Boutique</div>
 
-      <div class="logo">Sweet Story</div>
+      <div class="logo"></div>
 
       <div class="line"></div>
 
